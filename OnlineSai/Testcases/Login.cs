@@ -47,6 +47,15 @@ namespace OnlineSai.Testcases
 
         }
 
+        [TestMethod]
+        public void Logout()
+        {
+
+
+
+
+        }
+
         [TestCleanup]
         public void wrapdown()
         {
