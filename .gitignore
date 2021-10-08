@@ -2,5 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 /.vs
+=======
+/.vs/OnlineSai/v16
+>>>>>>> TEsted
 /packages

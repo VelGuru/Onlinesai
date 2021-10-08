@@ -8,6 +8,7 @@ F:\visual studio 2013\Projects\OnlineSai\OnlineSai\obj\Debug\OnlineSai.csprojRes
 F:\visual studio 2013\Projects\OnlineSai\OnlineSai\obj\Debug\OnlineSai.dll
 F:\visual studio 2013\Projects\OnlineSai\OnlineSai\obj\Debug\OnlineSai.pdb
 F:\visual studio 2013\Projects\OnlineSai\OnlineSai\bin\Debug\OnlineSai.dll.config
+<<<<<<< HEAD
 D:\Par_Git\onlinesai\OnlineSai\bin\Debug\OnlineSai.dll.config
 D:\Par_Git\onlinesai\OnlineSai\bin\Debug\OnlineSai.dll
 D:\Par_Git\onlinesai\OnlineSai\bin\Debug\OnlineSai.pdb
@@ -21,3 +22,18 @@ D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CoreCompileInputs.cach
 D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CopyComplete
 D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.dll
 D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.pdb
+=======
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\OnlineSai.dll.config
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\OnlineSai.dll
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\OnlineSai.pdb
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\WebDriver.dll
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\WebDriver.Support.dll
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\WebDriver.xml
+D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\WebDriver.Support.xml
+D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.AssemblyReference.cache
+D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CoreCompileInputs.cache
+D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CopyComplete
+D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.dll
+D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.pdb
+>>>>>>> TEsted
