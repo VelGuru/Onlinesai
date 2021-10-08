@@ -70,6 +70,7 @@
     <Compile Include="PageObject\DashboardPage.cs" />
     <Compile Include="PageObject\LoginPage.cs" />
     <Compile Include="PageObject\MyprofilePage.cs" />
+    <Compile Include="Testcases\Homepage.cs" />
     <Compile Include="Testcases\Login.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
