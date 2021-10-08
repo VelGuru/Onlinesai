@@ -71,10 +71,14 @@
     <Compile Include="PageObject\LoginPage.cs" />
     <Compile Include="PageObject\MyprofilePage.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="Testcases\AdminPage.cs" />
 =======
     <Compile Include="Testcases\Homepage.cs" />
 >>>>>>> TEsted
+=======
+    <Compile Include="Testcases\Homepage.cs" />
+>>>>>>> c888e31c70c38a557e270f9368ce0f1652fd82f4
     <Compile Include="Testcases\Login.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

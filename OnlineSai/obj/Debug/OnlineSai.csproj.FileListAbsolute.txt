@@ -9,6 +9,7 @@ F:\visual studio 2013\Projects\OnlineSai\OnlineSai\obj\Debug\OnlineSai.dll
 F:\visual studio 2013\Projects\OnlineSai\OnlineSai\obj\Debug\OnlineSai.pdb
 F:\visual studio 2013\Projects\OnlineSai\OnlineSai\bin\Debug\OnlineSai.dll.config
 <<<<<<< HEAD
+<<<<<<< HEAD
 D:\Par_Git\onlinesai\OnlineSai\bin\Debug\OnlineSai.dll.config
 D:\Par_Git\onlinesai\OnlineSai\bin\Debug\OnlineSai.dll
 D:\Par_Git\onlinesai\OnlineSai\bin\Debug\OnlineSai.pdb
@@ -23,6 +24,8 @@ D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CopyComplete
 D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.dll
 D:\Par_Git\onlinesai\OnlineSai\obj\Debug\OnlineSai.pdb
 =======
+=======
+>>>>>>> c888e31c70c38a557e270f9368ce0f1652fd82f4
 D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\OnlineSai.dll.config
 D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\OnlineSai.dll
 D:\Par_Git\branch\Onlinesai\OnlineSai\bin\Debug\OnlineSai.pdb
@@ -36,4 +39,7 @@ D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CoreCompileInpu
 D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.csproj.CopyComplete
 D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.dll
 D:\Par_Git\branch\Onlinesai\OnlineSai\obj\Debug\OnlineSai.pdb
+<<<<<<< HEAD
 >>>>>>> TEsted
+=======
+>>>>>>> c888e31c70c38a557e270f9368ce0f1652fd82f4
