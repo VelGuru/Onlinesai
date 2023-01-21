@@ -15,6 +15,9 @@ namespace OnlineSai.PageObject
         [FindsBy(How = How.XPath, Using = "//li[@id='account']")]
         public IWebElement lnkAccount { get; set; }
 
+        [FindsBy(How = How.XPath, Using = "//li[@id='account']")]
+        public IWebElement lnkUser { get; set; }
+
         public void clickAccount()
         {
             lnkAccount.Click();

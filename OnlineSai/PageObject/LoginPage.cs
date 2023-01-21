@@ -22,6 +22,9 @@ namespace OnlineSai.PageObject
         [FindsBy(How = How.XPath, Using = "//button[@type='submit']")]
         public IWebElement btnLogin { get; set; }
 
+        [FindsBy(How = How.XPath, Using = "//button[@type='submit']")]
+        public IWebElement btnLogout { get; set; }
+        
         public void LoginPHP(string username,string password)
         {
             txtEmail.SendKeys(username);
